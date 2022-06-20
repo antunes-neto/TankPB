@@ -10,7 +10,7 @@ Entrega presencial dia 27.06.2022 | 19h
 
 :: Descrição do módulo ::
   > Tela de apresentação aluno + botão jogar
-  > Scene do jogo
+  > Tela do JOGO
   >> Tank (Pode ser baseado no meu, o meu ou outro - texturizar)
   >>> Controlar avançar, voltar e rotacionar,
   >>> Controlar Torreta
