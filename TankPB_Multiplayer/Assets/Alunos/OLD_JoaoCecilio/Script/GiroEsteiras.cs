@@ -17,6 +17,6 @@ public class GiroEsteiras : MonoBehaviour
     void Update()
     {
         float offset = Time.time * scrollSpeed;
-        rend.material.SetTextureOffset("_MainTex", new Vector2(offset, 0f));
+        rend.material.SetTextureOffset("_MainTex", new Vector2(0f, offset));
     }
 }

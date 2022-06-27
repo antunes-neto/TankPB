@@ -6,6 +6,10 @@ public class MovimentoTank : MonoBehaviour
 {
     public float velocidade;
     public float velRotacao;
+
+    private void Start()
+    {
+    }
     void Update()
     {
         MovimentoFrenteTras();
